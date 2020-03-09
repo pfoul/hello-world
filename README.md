@@ -1,6 +1,4 @@
 hello-world
 ===========
 
-test
-
-Nothing else.
+Hubbot here!
